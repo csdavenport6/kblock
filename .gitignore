@@ -1,0 +1,13 @@
+# Build output
+KeyLock.app/
+*.o
+
+# macOS
+.DS_Store
+
+# Xcode / Swift Package Manager (if the project ever grows into one)
+.build/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+.swiftpm/
