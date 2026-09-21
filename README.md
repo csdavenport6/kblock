@@ -1,4 +1,4 @@
-# KeyLock
+# kblock
 
 A simple little macOS menu bar utility that locks the keyboard so you can clean it
 without random nonsense happening. Mouse and trackpad are unaffected.
